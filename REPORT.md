@@ -13,7 +13,7 @@ $ mkdir workflows
 $ cd workflows
 $ touch cmake.yml
 ```
-Открою его для внесения изменений:```nano cmake.yml```<br />
+Открою его для внесения изменений:```$ nano cmake.yml```<br />
 Отредактирую:
 ```
 name: CMake
